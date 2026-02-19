@@ -1,0 +1,15 @@
+{
+  "framework": "nextjs",
+  "buildCommand": "npm run build",
+  "outputDirectory": ".next",
+  "installCommand": "npm install",
+  "env": {
+    "NEXT_PUBLIC_APP_NAME": "Bridge Remit"
+  },
+  "rewrites": [
+    {
+      "source": "/api/ai/:path*",
+      "destination": "https://gateway.ai.vercel.ai/v1/:path*"
+    }
+  ]
+}

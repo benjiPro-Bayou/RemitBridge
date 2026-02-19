@@ -1,0 +1,12 @@
+{
+  "/transactions/page": "app/transactions/page.js",
+  "/bill-payment/page": "app/bill-payment/page.js",
+  "/notifications/page": "app/notifications/page.js",
+  "/page": "app/page.js",
+  "/settings/page": "app/settings/page.js",
+  "/signin/page": "app/signin/page.js",
+  "/dashboard/terms/page": "app/dashboard/terms/page.js",
+  "/dashboard/exchange-rates/page": "app/dashboard/exchange-rates/page.js",
+  "/send-money/page": "app/send-money/page.js",
+  "/dashboard/privacy/page": "app/dashboard/privacy/page.js"
+}

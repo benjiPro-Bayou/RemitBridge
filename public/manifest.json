@@ -1,0 +1,24 @@
+{
+  "name": "Bridge Remit - Send Money to Ethiopia",
+  "short_name": "BridgeRemit",
+  "description": "Secure remittance service to Ethiopia. Bank transfer, cash pickup, bill payments, and gift packages.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F8FAFC",
+  "theme_color": "#1E40AF",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
